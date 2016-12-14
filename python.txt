@@ -5,6 +5,3 @@ haha 果然很简单
 这里是一个分支啊
 Creating a new branch is quick AND simple.
 我在dev上开发者
-真的冲突了么
-测试远程冲突
-
