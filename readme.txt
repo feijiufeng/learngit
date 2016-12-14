@@ -3,4 +3,5 @@ hello world
 haha 果然很简单
 工作区 暂存区 版本库
 这里是一个分支啊
-Creating a new branch is quick & simple.
+Creating a new branch is quick AND simple.
+
